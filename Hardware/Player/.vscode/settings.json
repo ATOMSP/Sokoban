@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ffconf.h": "c",
+        "diskio.h": "c",
+        "ff.h": "c",
+        "*.inc": "cpp"
+    }
+}
